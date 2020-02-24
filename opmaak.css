@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+html,body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+	
+}
+a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8f0000;
+  text-decoration: none;
+}
+
+body {
+	background-image: url('https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif');
+	color: #1E6F1E;
+	font-family: iceberg;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 400;
+	margin-top: 60px;
+	margin-left: 50px;
+	-webkit-text-stroke-width: 0.25px;
+	-webkit-text-stroke-color: pink;
+}
+h1 {
+	font-family: 'geostar-fill';
+	font-size: 40px	;
+	font-style: normal;
+	font-weight: 400;	
+}
+h2 {
+	font-family: 'geostar-fill';
+	font-size: 25px	;
+	font-style: normal;
+	font-weight: 400;	
+}
+p {
+	font-size: 20px;
+	
+}
+p2 {
+	color: crimson;
+	font-size: 20px;
+	margin-top: 0px;
+}
+h3 {
+	color: blueviolet;
+	font-size: 60px;
+}
+.logo {
+	position: absolute;
+	width:100%;
+	z-index: 1000;
+	border: none;
+	box-sizing: content-box;
+	top: 0;
+	margin-left: 400px;
+	margin-top: 5px;
+}
+.textbox1 {
+  background-color: #ffffOf;
+  position: absolute;
+  width: auto;
+	border: 3px solid green;
+	padding: 15px;
+	border-style: dashed;
+  z-index: 998;
+  box-sizing:border-box;
+  top: 500px;
+margin-left: 200px;
+}
+.textbox1:hover { border-color: #FF0004}
+.textbox1:hover { color:aqua}
+
+.filmlijst {
+  background-color: #ffffOf;
+  position: absolute;
+  width: auto;
+	border: 3px #FF0000;
+  padding: 15px;
+	border-style: dashed;
+  z-index: 1001;
+  box-sizing:content-box;
+  margin-top: 100px;
+margin-left: 1350px;
+}
+.filmlijst p {
+	font-size: 30px;
+	color: aqua;
+	padding: 10px 5px;
+	width: auto;
+	text-align: center;
+	
+}
+.filmlijst h3 {
+	font-size: 30px;
+	color: indianred;
+	padding: 10px 5px;
+	width: auto;
+	text-align: center;
+}
+.filmlijst p:hover { 
+	color:greenyellow;
+	border-color: green;
+	background-image: url('https://media.giphy.com/media/Yqn9tE2E00k4U/giphy.gif');
+	background-blend-mode: multiply;
+}
+
+.nav-bar {
+  font-family: iceberg;
+  color: green;
+  background-color: #000000;
+  position: fixed;
+  width: 100%;
+  overflow-x: auto;
+  border: none;
+  z-index: 999;
+  box-sizing: border-box;
+  top: 0;
+margin-left: -50px;
+}
+
+.nav-bar li {
+	display: inline;
+	padding: 5px 20px;
+	font-size: 40px;
+	font-family: unifrakturcook;
+	font-style: normal;
+	font-weight: 700;
+		
+}
