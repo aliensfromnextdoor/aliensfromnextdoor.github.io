@@ -9,20 +9,7 @@ html,body
 	overflow-x: hidden;
 	
 }
-a:link {
-  color: #FFFFFF;
-  text-decoration: none;
-}
 
-a:visited {
-  color: #FFFFFF;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #8f0000;
-  text-decoration: none;
-}
 
 body {
 	background-image: url('https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif');
@@ -113,11 +100,31 @@ margin-left: 1350px;
 	width: auto;
 	text-align: center;
 }
-.filmlijst p:hover { 
+.filmlijst li {
+	font-size: 30px;
+	color: aqua;
+	padding: 15px 5px;
+	text-align:center;
+	list-style-type: none;
+	margin-left: -40px;
+}
+.filmlijst a:visited {
+	font-size: 30px;
+	color: aqua;
+	padding: 10px 5px;
+	text-align:center;
+}
+.filmlijst a:hover { 
 	color:greenyellow;
 	border-color: green;
 	background-image: url('https://media.giphy.com/media/Yqn9tE2E00k4U/giphy.gif');
 	background-blend-mode: multiply;
+}
+.filmlijst a:link {
+	font-size: 30px;
+	color: aqua;
+	padding: 10px 5px;
+	text-align:center;
 }
 
 .nav-bar {
@@ -142,4 +149,18 @@ margin-left: -50px;
 	font-style: normal;
 	font-weight: 700;
 		
+}
+a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8f0000;
+  text-decoration: none;
 }
