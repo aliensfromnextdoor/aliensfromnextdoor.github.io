@@ -14,7 +14,7 @@ html,body
 body {
 	background-image: url('https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif');
 	color: #1E6F1E;
-	font-family: 'iceberg';
+	font-family: 'Arial';
 	font-size: 15px;
 	font-style: normal;
 	font-weight: 400;
@@ -24,13 +24,13 @@ body {
 	-webkit-text-stroke-color: pink;
 }
 h1 {
-	font-family: 'geostar-fill';
+	font-family: 'libre_barcode_128';
 	font-size: 40px	;
 	font-style: normal;
 	font-weight: 400;	
 }
 h2 {
-	font-family: 'geostar-fill';
+	font-family: 'libre_barcode_128';
 	font-size: 25px	;
 	font-style: normal;
 	font-weight: 400;	

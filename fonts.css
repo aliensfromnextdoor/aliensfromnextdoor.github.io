@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'press_start_2p';
-    src: url('pressstart2p-regular-webfont.woff2') format('woff2'),
-         url('pressstart2p-regular-webfont.woff') format('woff');
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/pressstart2p-regular-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/pressstart2p-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'libre_barcode_128';
-    src: url('librebarcode128text-regular-webfont.woff2') format('woff2'),
-         url('librebarcode128text-regular-webfont.woff') format('woff');
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/librebarcode128text-regular-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/librebarcode128text-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'zenda';
-    src: url('zenda-webfont.woff2') format('woff2'),
-         url('zenda-webfont.woff') format('woff');
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/zenda-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/zenda-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
