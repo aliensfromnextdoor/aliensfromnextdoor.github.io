@@ -14,7 +14,7 @@ html,body
 body {
 	background-image: url('https://media.giphy.com/media/LQiq27myXGPXO6WzAE/giphy.gif');
 	color: #1E6F1E;
-	font-family: iceberg;
+	font-family: 'iceberg';
 	font-size: 15px;
 	font-style: normal;
 	font-weight: 400;
@@ -128,7 +128,7 @@ margin-left: 1350px;
 }
 
 .nav-bar {
-  font-family: iceberg;
+  font-family: 'iceberg';
   color: green;
   background-color: #000000;
   position: fixed;
@@ -145,7 +145,7 @@ margin-left: -50px;
 	display: inline;
 	padding: 5px 20px;
 	font-size: 40px;
-	font-family: unifrakturcook;
+	font-family: 'unifrakturcook';
 	font-style: normal;
 	font-weight: 700;
 		
