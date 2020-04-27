@@ -1,5 +1,39 @@
 @charset "UTF-8";
 /* CSS Document */
+
+@font-face {
+    font-family: 'press_start_2p';
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/pressstart2p-regular-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/pressstart2p-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'libre_barcode_128';
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/librebarcode128text-regular-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/librebarcode128text-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'zenda';
+    src: url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/zenda-webfont.woff2') format('woff2'),
+         url('https://github.com/aliensfromnextdoor/aliensfromnextdoor.github.io/blob/master/fonts/zenda-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html,body
 {
 	width: 100%;
@@ -145,7 +179,7 @@ margin-left: -50px;
 	display: inline;
 	padding: 5px 20px;
 	font-size: 40px;
-	font-family: 'unifrakturcook';
+	font-family: 'zenda';
 	font-style: normal;
 	font-weight: 700;
 		
