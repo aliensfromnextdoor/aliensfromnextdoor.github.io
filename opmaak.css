@@ -205,13 +205,14 @@ a:hover {
 	padding: 15px 5px;
 	text-align:center;
 	list-style-type: none;
-	margin-left: -40px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
 	border: 3px;
 	border-style: dashed;
 	border-color: crimson;
-	width: auto;
+	width: 50%;
 	box-sizing: content-box;
-	margin: 10px 0px;
 }
 .linklijst a:visited {
 	font-size: 30px;
